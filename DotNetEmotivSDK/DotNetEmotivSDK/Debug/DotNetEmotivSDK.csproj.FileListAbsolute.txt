@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\인지공학\BrainSecurity\build\Debug\DotNetEmotivSDK.dll
+C:\Users\user\Desktop\인지공학\BrainSecurity\build\Debug\DotNetEmotivSDK.pdb
+C:\Users\user\Desktop\인지공학\BrainSecurity\DotNetEmotivSDK\DotNetEmotivSDK\Debug\DotNetEmotivSDK.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\인지공학\BrainSecurity\DotNetEmotivSDK\DotNetEmotivSDK\Debug\DotNetEmotivSDK.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\인지공학\BrainSecurity\DotNetEmotivSDK\DotNetEmotivSDK\Debug\DotNetEmotivSDK.dll
+C:\Users\user\Desktop\인지공학\BrainSecurity\DotNetEmotivSDK\DotNetEmotivSDK\Debug\DotNetEmotivSDK.pdb
